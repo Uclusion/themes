@@ -497,9 +497,9 @@ input[type="submit"][disabled] {
 }
 
 .user-nav[aria-expanded="true"] {
-  background-color: #fff;
-  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.15), 0 4px 10px 0 rgba(0, 0, 0, 0.1);
-  border: solid 1px #ddd;
+  background-color: #4286f4;
+  box-shadow: 0 0 4px 0 rgba(1, 0, 0, 0.15), 0 4px 10px 0 rgba(1, 0, 0, 0.1);
+  border: solid 1px #4286f4;
   right: 0;
   left: 0;
   top: 71px;
