@@ -98,7 +98,7 @@ input[disabled] {
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
-  background: url("/hc/assets/dropdown-arrow.svg") no-repeat #fff;
+  background: url("/hc/assets/dropdown-arrow.svg") no-repeat #4286f4;
   background-position: right 10px center;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -583,19 +583,19 @@ input[type="submit"][disabled] {
 
 .user-info > [role="button"] {
   border: 0;
-  color: #FFF;
+  color: #4286f4;
   min-width: 0;
   padding: 0;
   white-space: nowrap;
 }
 
 .user-info > [role="button"]:hover {
-  color: #FFF;
+  color: #4286f4;
   background-color: transparent;
 }
 
 .user-info > [role="button"]::after {
-  color: #FFF;
+  color: #4286f4;
   padding-right: 15px;
 }
 
@@ -642,7 +642,7 @@ input[type="submit"][disabled] {
 
 .avatar .icon-agent::before {
   background-color: $color_1;
-  border: 2px solid #fff;
+  border: 2px solid #4286f4;
   border-radius: 50%;
   bottom: -4px;
   color: $color_2;
@@ -822,7 +822,7 @@ input[type="submit"][disabled] {
 }
 
 .hero-title {
-  color: #FFF;
+  color: #4286f4;
   font-size: 28px;
   margin-bottom: 10px;
 }
