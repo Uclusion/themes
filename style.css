@@ -513,7 +513,7 @@ input[type="submit"][disabled] {
 
 .nav-wrapper a {
   border: 0;
-  color: #FFF;
+  color: #4286f4;
   display: none;
   padding: 0 20px 0 0;
   width: auto;
@@ -535,7 +535,7 @@ input[type="submit"][disabled] {
 .nav-wrapper a:focus,
 .nav-wrapper a:active {
   background-color: transparent;
-  color: #FFF;
+  color: #4286f4;
   text-decoration: underline;
 }
 
@@ -546,7 +546,7 @@ input[type="submit"][disabled] {
 .nav-wrapper .icon-menu {
   display: inline-block;
   margin-right: 10px;
-  color: #FFF;
+  color: #4286f4;
 }
 
 @media (min-width: 768px) {
