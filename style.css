@@ -459,7 +459,7 @@ input[type="submit"][disabled] {
 /***** Header *****/
 
 .header {
-  background: $header_color;
+  background: #ffffff;
 }
 
 .header-inner {
@@ -481,7 +481,7 @@ input[type="submit"][disabled] {
 }
 
 .logo img {
-  max-height: 24px;
+  max-height: 100px;
 }
 
 .user-nav {
