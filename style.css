@@ -790,7 +790,7 @@ input[type="submit"][disabled] {
 
 .hero {
   position: relative;
-  background-image: url($people);
+  background-image: url($logo_large_with_bg_inverted);
   background-position: center 55%;
   background-size: cover;
   height: 300px;

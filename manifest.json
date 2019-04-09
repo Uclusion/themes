@@ -1,7 +1,7 @@
 {
   "name": "Role Theme",
-  "author": "Zendesk Labs",
-  "version": "0.0.2",
+  "author": "Uclusion",
+  "version": "0.0.3",
   "api_version": 1,
   "settings": [
     {
@@ -241,7 +241,7 @@
           "label": "Community banner"
         },
         {
-          "identifier": "people",
+          "identifier": "logo_large_with_bg_inverted",
           "type": "file",
           "description": "Image for the Custom Hero banner",
           "label": "Custom Hero banner"
