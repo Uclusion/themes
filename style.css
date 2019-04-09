@@ -1661,8 +1661,8 @@ input[type="submit"][disabled] {
 
 .sidenav-item.current-article,
 .sidenav-item:hover {
-  background-color: $color_1;
-  color: $color_2;
+  background-color: #4286f4;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
